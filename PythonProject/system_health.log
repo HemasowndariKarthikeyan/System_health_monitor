@@ -1,0 +1,251 @@
+2024-12-09 19:48:44,294 - INFO - System Health Monitoring Started
+2024-12-09 19:48:45,295 - INFO - CPU Usage: 21.4%
+2024-12-09 19:48:45,296 - INFO - Memory Usage: 88.8%
+2024-12-09 19:48:45,297 - WARNING - High Memory Usage: 88.8% exceeds threshold!
+2024-12-09 19:48:45,297 - INFO - Disk Usage: 73.5%
+2024-12-09 19:48:45,879 - INFO - Running Processes: 230
+2024-12-09 19:48:45,880 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 0.0%
+2024-12-09 19:48:45,880 - INFO - PID: 4 - Process: System - CPU Usage: 0.0%
+2024-12-09 19:48:45,880 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 19:48:45,890 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 19:48:45,890 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 19:49:46,891 - INFO - CPU Usage: 8.6%
+2024-12-09 19:49:46,891 - INFO - Memory Usage: 89.0%
+2024-12-09 19:49:46,891 - WARNING - High Memory Usage: 89.0% exceeds threshold!
+2024-12-09 19:49:46,891 - INFO - Disk Usage: 73.5%
+2024-12-09 19:49:47,280 - INFO - Running Processes: 230
+2024-12-09 19:49:47,280 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 369.4%
+2024-12-09 19:49:47,280 - INFO - PID: 4 - Process: System - CPU Usage: 2.5%
+2024-12-09 19:49:47,280 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 19:49:47,280 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 19:49:47,280 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 19:50:48,281 - INFO - CPU Usage: 17.9%
+2024-12-09 19:50:48,281 - INFO - Memory Usage: 91.6%
+2024-12-09 19:50:48,281 - WARNING - High Memory Usage: 91.6% exceeds threshold!
+2024-12-09 19:50:48,281 - INFO - Disk Usage: 73.5%
+2024-12-09 19:50:48,718 - INFO - Running Processes: 239
+2024-12-09 19:50:48,718 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 350.4%
+2024-12-09 19:50:48,718 - INFO - PID: 4 - Process: System - CPU Usage: 2.5%
+2024-12-09 19:50:48,718 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 19:50:48,718 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 19:50:48,718 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 19:51:49,727 - INFO - CPU Usage: 5.1%
+2024-12-09 19:51:49,731 - INFO - Memory Usage: 91.8%
+2024-12-09 19:51:49,731 - WARNING - High Memory Usage: 91.8% exceeds threshold!
+2024-12-09 19:51:49,732 - INFO - Disk Usage: 73.6%
+2024-12-09 19:51:50,141 - INFO - Running Processes: 238
+2024-12-09 19:51:50,141 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 348.6%
+2024-12-09 19:51:50,141 - INFO - PID: 4 - Process: System - CPU Usage: 4.8%
+2024-12-09 19:51:50,141 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 19:51:50,142 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 19:51:50,142 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 19:52:51,143 - INFO - CPU Usage: 9.3%
+2024-12-09 19:52:51,143 - INFO - Memory Usage: 87.0%
+2024-12-09 19:52:51,143 - WARNING - High Memory Usage: 87.0% exceeds threshold!
+2024-12-09 19:52:51,143 - INFO - Disk Usage: 73.6%
+2024-12-09 19:52:51,529 - INFO - Running Processes: 236
+2024-12-09 19:52:51,529 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 352.9%
+2024-12-09 19:52:51,529 - INFO - PID: 4 - Process: System - CPU Usage: 3.7%
+2024-12-09 19:52:51,529 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 19:52:51,529 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 19:52:51,529 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 19:53:52,534 - INFO - CPU Usage: 4.3%
+2024-12-09 19:53:52,534 - INFO - Memory Usage: 86.4%
+2024-12-09 19:53:52,534 - WARNING - High Memory Usage: 86.4% exceeds threshold!
+2024-12-09 19:53:52,534 - INFO - Disk Usage: 73.6%
+2024-12-09 19:53:52,888 - INFO - Running Processes: 234
+2024-12-09 19:53:52,889 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 364.9%
+2024-12-09 19:53:52,889 - INFO - PID: 4 - Process: System - CPU Usage: 3.8%
+2024-12-09 19:53:52,889 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 19:53:52,889 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 19:53:52,889 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 19:54:53,891 - INFO - CPU Usage: 14.1%
+2024-12-09 19:54:53,891 - INFO - Memory Usage: 87.1%
+2024-12-09 19:54:53,891 - WARNING - High Memory Usage: 87.1% exceeds threshold!
+2024-12-09 19:54:53,891 - INFO - Disk Usage: 73.6%
+2024-12-09 19:54:54,273 - INFO - Running Processes: 236
+2024-12-09 19:54:54,273 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 371.1%
+2024-12-09 19:54:54,273 - INFO - PID: 4 - Process: System - CPU Usage: 3.7%
+2024-12-09 19:54:54,273 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 19:54:54,273 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 19:54:54,273 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 19:55:55,276 - INFO - CPU Usage: 25.9%
+2024-12-09 19:55:55,276 - INFO - Memory Usage: 86.9%
+2024-12-09 19:55:55,276 - WARNING - High Memory Usage: 86.9% exceeds threshold!
+2024-12-09 19:55:55,276 - INFO - Disk Usage: 73.6%
+2024-12-09 19:55:55,686 - INFO - Running Processes: 238
+2024-12-09 19:55:55,686 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 334.4%
+2024-12-09 19:55:55,686 - INFO - PID: 4 - Process: System - CPU Usage: 3.4%
+2024-12-09 19:55:55,686 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 19:55:55,686 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 19:55:55,686 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 19:56:56,700 - INFO - CPU Usage: 3.9%
+2024-12-09 19:56:56,700 - INFO - Memory Usage: 86.7%
+2024-12-09 19:56:56,703 - WARNING - High Memory Usage: 86.7% exceeds threshold!
+2024-12-09 19:56:56,703 - INFO - Disk Usage: 73.6%
+2024-12-09 19:56:57,038 - INFO - Running Processes: 236
+2024-12-09 19:56:57,038 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 349.7%
+2024-12-09 19:56:57,038 - INFO - PID: 4 - Process: System - CPU Usage: 3.8%
+2024-12-09 19:56:57,038 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 19:56:57,038 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 19:56:57,038 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 19:57:58,050 - INFO - CPU Usage: 12.9%
+2024-12-09 19:57:58,052 - INFO - Memory Usage: 87.1%
+2024-12-09 19:57:58,052 - WARNING - High Memory Usage: 87.1% exceeds threshold!
+2024-12-09 19:57:58,053 - INFO - Disk Usage: 73.6%
+2024-12-09 19:57:58,441 - INFO - Running Processes: 235
+2024-12-09 19:57:58,442 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 369.9%
+2024-12-09 19:57:58,442 - INFO - PID: 4 - Process: System - CPU Usage: 3.4%
+2024-12-09 19:57:58,442 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 19:57:58,442 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 19:57:58,442 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 19:58:59,605 - INFO - CPU Usage: 20.5%
+2024-12-09 19:58:59,613 - INFO - Memory Usage: 86.7%
+2024-12-09 19:58:59,613 - WARNING - High Memory Usage: 86.7% exceeds threshold!
+2024-12-09 19:58:59,613 - INFO - Disk Usage: 73.6%
+2024-12-09 19:59:00,207 - INFO - Running Processes: 235
+2024-12-09 19:59:00,207 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 377.3%
+2024-12-09 19:59:00,207 - INFO - PID: 4 - Process: System - CPU Usage: 2.3%
+2024-12-09 19:59:00,207 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 19:59:00,207 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 19:59:00,207 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 20:00:01,222 - INFO - CPU Usage: 29.2%
+2024-12-09 20:00:01,222 - INFO - Memory Usage: 88.0%
+2024-12-09 20:00:01,222 - WARNING - High Memory Usage: 88.0% exceeds threshold!
+2024-12-09 20:00:01,222 - INFO - Disk Usage: 73.6%
+2024-12-09 20:00:01,605 - INFO - Running Processes: 238
+2024-12-09 20:00:01,605 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 369.2%
+2024-12-09 20:00:01,606 - INFO - PID: 4 - Process: System - CPU Usage: 3.3%
+2024-12-09 20:00:01,606 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 20:00:01,606 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 20:00:01,606 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 20:01:02,608 - INFO - CPU Usage: 13.0%
+2024-12-09 20:01:02,608 - INFO - Memory Usage: 86.4%
+2024-12-09 20:01:02,608 - WARNING - High Memory Usage: 86.4% exceeds threshold!
+2024-12-09 20:01:02,608 - INFO - Disk Usage: 73.6%
+2024-12-09 20:01:02,997 - INFO - Running Processes: 235
+2024-12-09 20:01:02,997 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 365.0%
+2024-12-09 20:01:02,997 - INFO - PID: 4 - Process: System - CPU Usage: 1.9%
+2024-12-09 20:01:02,997 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 20:01:02,997 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 20:01:02,997 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 20:02:03,998 - INFO - CPU Usage: 5.8%
+2024-12-09 20:02:04,001 - INFO - Memory Usage: 84.6%
+2024-12-09 20:02:04,001 - WARNING - High Memory Usage: 84.6% exceeds threshold!
+2024-12-09 20:02:04,001 - INFO - Disk Usage: 73.6%
+2024-12-09 20:02:04,296 - INFO - Running Processes: 235
+2024-12-09 20:02:04,296 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 369.4%
+2024-12-09 20:02:04,296 - INFO - PID: 4 - Process: System - CPU Usage: 1.8%
+2024-12-09 20:02:04,296 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 20:02:04,297 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 20:02:04,297 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 20:03:05,297 - INFO - CPU Usage: 4.7%
+2024-12-09 20:03:05,299 - INFO - Memory Usage: 85.1%
+2024-12-09 20:03:05,299 - WARNING - High Memory Usage: 85.1% exceeds threshold!
+2024-12-09 20:03:05,299 - INFO - Disk Usage: 73.6%
+2024-12-09 20:03:05,584 - INFO - Running Processes: 235
+2024-12-09 20:03:05,584 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 377.5%
+2024-12-09 20:03:05,584 - INFO - PID: 4 - Process: System - CPU Usage: 2.6%
+2024-12-09 20:03:05,584 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 20:03:05,584 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 20:03:05,584 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 20:04:06,586 - INFO - CPU Usage: 3.9%
+2024-12-09 20:04:06,589 - INFO - Memory Usage: 85.5%
+2024-12-09 20:04:06,589 - WARNING - High Memory Usage: 85.5% exceeds threshold!
+2024-12-09 20:04:06,589 - INFO - Disk Usage: 73.6%
+2024-12-09 20:04:06,932 - INFO - Running Processes: 234
+2024-12-09 20:04:06,932 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 377.4%
+2024-12-09 20:04:06,932 - INFO - PID: 4 - Process: System - CPU Usage: 2.5%
+2024-12-09 20:04:06,932 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 20:04:06,932 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 20:04:06,932 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 20:05:07,934 - INFO - CPU Usage: 3.9%
+2024-12-09 20:05:07,934 - INFO - Memory Usage: 87.0%
+2024-12-09 20:05:07,934 - WARNING - High Memory Usage: 87.0% exceeds threshold!
+2024-12-09 20:05:07,934 - INFO - Disk Usage: 73.6%
+2024-12-09 20:05:08,313 - INFO - Running Processes: 236
+2024-12-09 20:05:08,313 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 375.5%
+2024-12-09 20:05:08,313 - INFO - PID: 4 - Process: System - CPU Usage: 1.4%
+2024-12-09 20:05:08,313 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 20:05:08,313 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 20:05:08,313 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 20:06:09,327 - INFO - CPU Usage: 5.0%
+2024-12-09 20:06:09,327 - INFO - Memory Usage: 87.2%
+2024-12-09 20:06:09,327 - WARNING - High Memory Usage: 87.2% exceeds threshold!
+2024-12-09 20:06:09,327 - INFO - Disk Usage: 73.6%
+2024-12-09 20:06:09,732 - INFO - Running Processes: 241
+2024-12-09 20:06:09,732 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 365.8%
+2024-12-09 20:06:09,732 - INFO - PID: 4 - Process: System - CPU Usage: 1.3%
+2024-12-09 20:06:09,732 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 20:06:09,732 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 20:06:09,732 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 20:07:10,741 - INFO - CPU Usage: 1.2%
+2024-12-09 20:07:10,743 - INFO - Memory Usage: 87.3%
+2024-12-09 20:07:10,743 - WARNING - High Memory Usage: 87.3% exceeds threshold!
+2024-12-09 20:07:10,744 - INFO - Disk Usage: 73.6%
+2024-12-09 20:07:11,045 - INFO - Running Processes: 238
+2024-12-09 20:07:11,045 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 373.6%
+2024-12-09 20:07:11,045 - INFO - PID: 4 - Process: System - CPU Usage: 2.8%
+2024-12-09 20:07:11,045 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 20:07:11,045 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 20:07:11,045 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 20:08:12,048 - INFO - CPU Usage: 7.8%
+2024-12-09 20:08:12,048 - INFO - Memory Usage: 87.8%
+2024-12-09 20:08:12,048 - WARNING - High Memory Usage: 87.8% exceeds threshold!
+2024-12-09 20:08:12,048 - INFO - Disk Usage: 73.6%
+2024-12-09 20:08:12,395 - INFO - Running Processes: 238
+2024-12-09 20:08:12,395 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 372.6%
+2024-12-09 20:08:12,395 - INFO - PID: 4 - Process: System - CPU Usage: 2.1%
+2024-12-09 20:08:12,395 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 20:08:12,395 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 20:08:12,395 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 20:09:13,408 - INFO - CPU Usage: 8.2%
+2024-12-09 20:09:13,408 - INFO - Memory Usage: 87.9%
+2024-12-09 20:09:13,408 - WARNING - High Memory Usage: 87.9% exceeds threshold!
+2024-12-09 20:09:13,408 - INFO - Disk Usage: 73.6%
+2024-12-09 20:09:13,753 - INFO - Running Processes: 239
+2024-12-09 20:09:13,753 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 376.5%
+2024-12-09 20:09:13,753 - INFO - PID: 4 - Process: System - CPU Usage: 2.0%
+2024-12-09 20:09:13,753 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 20:09:13,753 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 20:09:13,753 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 20:10:14,760 - INFO - CPU Usage: 3.9%
+2024-12-09 20:10:14,762 - INFO - Memory Usage: 87.1%
+2024-12-09 20:10:14,762 - WARNING - High Memory Usage: 87.1% exceeds threshold!
+2024-12-09 20:10:14,763 - INFO - Disk Usage: 73.6%
+2024-12-09 20:10:15,047 - INFO - Running Processes: 238
+2024-12-09 20:10:15,047 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 374.6%
+2024-12-09 20:10:15,047 - INFO - PID: 4 - Process: System - CPU Usage: 2.8%
+2024-12-09 20:10:15,047 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 20:10:15,047 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 20:10:15,047 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 20:11:16,048 - INFO - CPU Usage: 3.5%
+2024-12-09 20:11:16,051 - INFO - Memory Usage: 87.7%
+2024-12-09 20:11:16,051 - WARNING - High Memory Usage: 87.7% exceeds threshold!
+2024-12-09 20:11:16,051 - INFO - Disk Usage: 73.6%
+2024-12-09 20:11:16,344 - INFO - Running Processes: 240
+2024-12-09 20:11:16,351 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 380.2%
+2024-12-09 20:11:16,351 - INFO - PID: 4 - Process: System - CPU Usage: 2.8%
+2024-12-09 20:11:16,351 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 20:11:16,351 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 20:11:16,351 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 20:12:17,352 - INFO - CPU Usage: 3.1%
+2024-12-09 20:12:17,354 - INFO - Memory Usage: 87.6%
+2024-12-09 20:12:17,354 - WARNING - High Memory Usage: 87.6% exceeds threshold!
+2024-12-09 20:12:17,355 - INFO - Disk Usage: 73.6%
+2024-12-09 20:12:17,682 - INFO - Running Processes: 241
+2024-12-09 20:12:17,682 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 386.1%
+2024-12-09 20:12:17,682 - INFO - PID: 4 - Process: System - CPU Usage: 0.8%
+2024-12-09 20:12:17,682 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 20:12:17,682 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 20:12:17,682 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
+2024-12-09 20:13:18,683 - INFO - CPU Usage: 1.9%
+2024-12-09 20:13:18,688 - INFO - Memory Usage: 87.4%
+2024-12-09 20:13:18,688 - WARNING - High Memory Usage: 87.4% exceeds threshold!
+2024-12-09 20:13:18,688 - INFO - Disk Usage: 73.6%
+2024-12-09 20:13:19,315 - INFO - Running Processes: 240
+2024-12-09 20:13:19,315 - INFO - PID: 0 - Process: System Idle Process - CPU Usage: 384.1%
+2024-12-09 20:13:19,316 - INFO - PID: 4 - Process: System - CPU Usage: 0.9%
+2024-12-09 20:13:19,316 - INFO - PID: 108 - Process: Registry - CPU Usage: 0.0%
+2024-12-09 20:13:19,316 - INFO - PID: 576 - Process: smss.exe - CPU Usage: 0.0%
+2024-12-09 20:13:19,316 - INFO - PID: 628 - Process: wininit.exe - CPU Usage: 0.0%
